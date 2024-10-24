@@ -21,5 +21,5 @@ My goal is to build a strong foundation in data analysis and gain hands-on exper
 To explore the projects, simply clone this repository and dive into the individual folders.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/satyam0271/Data-Analysis.git
 
